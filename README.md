@@ -7,4 +7,4 @@ This is an example of writing checklist
 
 
 
-https://docs.google.com/spreadsheets/d/1dIhjUl6aJahsgrKvg1ofp3E357JGC0oV7b_PT5J9Uzc/edit#gid=1914441830
+https://docs.google.com/document/d/13G1qsoqG8Z89I1mhfzzzP6o4xbzdA4cbdF9_R0jyDlY/edit
